@@ -1,0 +1,94 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    height: 12%;
+    width: 12%;
+}
+.crear_cuenta h1{
+    position: absolute;
+    top: 110px;
+    left: 15%;
+}
+
+.Nombre_{
+    font-size: 16px;
+    height: 33px;
+    width: 224px;
+    color: black;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+.Apellidos_{
+    font-size: 16px;
+    height: 33px;
+    width: 224px;
+    color: black;
+    position: absolute;
+    top: 37%;
+    left: 15%;
+}
+.Usuario_c{
+    font-size: 16px;
+    height: 33px;
+    width: 224px;
+    color: black;
+    position: absolute;
+    top: 44%;
+    left: 15%;
+}
+.Correo_{
+    font-size: 16px;
+    height: 33px;
+    width: 224px;
+    color: black;
+    position: absolute;
+    top: 51%;
+    left: 15%;
+}
+.Contra_{
+    font-size: 16px;
+    height: 33px;
+    width: 224px;
+    color: black;
+    position: absolute;
+    top: 58%;
+    left: 15%;
+}
+.Confirmar_{
+    font-size: 16px;
+    height: 33px;
+    width: 224px;
+    color: black;
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}
+.boton_crear{
+    position: absolute;
+    top: 73%;
+    left: 15%;
+    height: 40px;
+    width: 15%;
+    font-size: 20px;
+    background-color:#3CB460;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+}
+
+
+p{
+    position: absolute;
+    right: 18px;
+    top: 18%;
+    font-size:18px;
+}
+
+.ambiente{
+    position: absolute;
+    right: 18%;
+    top: 30%;
+}

@@ -1,0 +1,58 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    text-align: center;
+}
+.logo{
+    width: 13%;
+    height: 13%;
+}
+
+h1{
+    text-align: center;
+    font-size: 28px;
+
+
+}
+
+.Usuario_{
+    font-size: 15px;
+    height: 31px;
+    width: 165px;
+    margin: 0px 0px 20px;   
+}
+.Contraseña_{
+    font-size: 15px;
+    height: 31px;
+    width: 165px;
+    margin: 0px 0px 20px;
+}
+
+.iniciar{
+    font-size: 18px;
+    height: 43px;
+    width: 14%;
+    background-color:#3CB460;
+    color: white;
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+    margin: 0px 0px 20px;
+}
+.Crear{
+    text-align: center;
+}
+
+.olvidado{
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.crear_d{
+    text-decoration: none;
+    color: #3CB460;
+}

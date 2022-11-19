@@ -1,0 +1,30 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    text-align: center;
+}
+.logo{
+    height: 20%;
+    width: 15%;
+}
+
+
+
+
+.correo_rec{
+    height: 30px;
+    width: 225px;
+    font-size: 17px;
+    margin: 0px 0px 16px;
+    
+}
+
+.enviar_re{
+    height: 40px;
+    font-size: 16px;
+    border-radius: 10px;
+    background-color: #3CB460;
+    border-color: #3CB460;
+    cursor: pointer;
+}

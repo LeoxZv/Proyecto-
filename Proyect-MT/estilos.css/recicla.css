@@ -1,0 +1,36 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    text-align: center;
+}
+.title{
+    margin-top: 50px;
+    font-size: 28px;    
+}
+.esc{
+    margin: 0px 0px 30px;
+}
+.escan{
+    font-size: 25px;
+    height: 55px;
+    width: 28%;
+    margin: 0px 0px 30px;
+    background-color:#3CB460;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+    
+}
+
+.foto{
+    font-size: 25px;
+    height: 55px;
+    width: 28%;
+    background-color:#3CB460;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+}

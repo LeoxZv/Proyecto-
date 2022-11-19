@@ -1,0 +1,40 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    text-align: center;
+}
+body p{
+    font-size: 20px;
+}
+.recicla{
+    font-size: 25px;
+    height: 50px;
+    width: 25%;
+    background-color:#3CB460;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+}
+
+.Puntaje{
+    font-size: 25px;
+    height: 50px;
+    width: 25%;
+    background-color:#3CB460;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+}
+.clasifi{
+    font-size: 25px;
+    height: 50px;
+    width: 25%;
+    background-color:#3CB460;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-color: #3CB460;
+    border-radius: 10px;
+}
